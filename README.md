@@ -1,4 +1,4 @@
-Emotion Detection Project
+# Final Project: Emotion Detection Project
 This project is an AI-powered emotion detection application that analyzes text input to determine the dominant emotion. It uses the Watson NLP library for natural language processing and is deployed as a web application using Flask.
 
 Features
